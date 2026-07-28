@@ -1,12 +1,18 @@
 # Learning Log
 
-A private record of genuine weekday study, labs, and project work.
+A public record of genuine weekday study, labs, and project work.
+
+## Recent entries
+
+- [2026-07-28 - Published and documented my portfolio](entries/2026/07/2026-07-28.md)
+- [2026-07-27 - Set up a genuine learning log](entries/2026/07/2026-07-27.md)
 
 ## What belongs here
 
 - Networking and Cisco lab notes
 - Cybersecurity exercises and write-ups
-- Python or web development practice
+- Python, TypeScript, React, or web development practice
+- Responsive design, accessibility, testing, and deployment work
 - Archtech progress that is safe to record
 - Problems solved, decisions made, and next steps
 
@@ -31,6 +37,7 @@ A private record of genuine weekday study, labs, and project work.
 - `Record Python password validation exercise`
 - `Summarize authentication research`
 - `Log Archtech moderation design decisions`
+- `Document portfolio publication and testing`
 
 ## Entry quality check
 
