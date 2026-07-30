@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-07-29 - Rebuilt my portfolio around an interactive topology](entries/2026/07/2026-07-29.md)
 - [2026-07-28 - Published and documented my portfolio](entries/2026/07/2026-07-28.md)
 - [2026-07-27 - Set up a genuine learning log](entries/2026/07/2026-07-27.md)
 
