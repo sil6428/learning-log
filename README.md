@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-08-01 - Set up T3MP3ST with a local Ollama model](entries/2026/08/2026-08-01.md)
 - [2026-07-31 - Added a bootable portfolio desktop](entries/2026/07/2026-07-31.md)
 - [2026-07-30 - Reorganized the interactive cyber lab](entries/2026/07/2026-07-30.md)
 - [2026-07-29 - Rebuilt my portfolio around an interactive topology](entries/2026/07/2026-07-29.md)
