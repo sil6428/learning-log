@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-07-31 - Added a bootable portfolio desktop](entries/2026/07/2026-07-31.md)
 - [2026-07-30 - Reorganized the interactive cyber lab](entries/2026/07/2026-07-30.md)
 - [2026-07-29 - Rebuilt my portfolio around an interactive topology](entries/2026/07/2026-07-29.md)
 - [2026-07-28 - Published and documented my portfolio](entries/2026/07/2026-07-28.md)
