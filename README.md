@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-08-13 - Licensed 3D assets and creative-studio redesign](entries/2026/08/2026-08-13.md)
 - [2026-08-10 - Interaction references, room index, and Three.js lighting](entries/2026/08/2026-08-10.md)
 - [2026-08-01 - T3MP3ST setup and AFFAN_OS desktop](entries/2026/08/2026-08-01.md)
 - [2026-07-31 - Added a bootable portfolio desktop](entries/2026/07/2026-07-31.md)
