@@ -26,7 +26,7 @@ The complete log is also available inside the portfolio's AFFAN_OS computer. Ent
 - Cybersecurity exercises and write-ups
 - Python, TypeScript, React, or web development practice
 - Responsive design, accessibility, testing, and deployment work
-- Archtech progress that is safe to record
+- Nonprofit technology operations that are safe to record
 - Problems solved, decisions made, and next steps
 
 ## What does not belong here
@@ -49,7 +49,7 @@ The complete log is also available inside the portfolio's AFFAN_OS computer. Ent
 - `Document VLAN trunking lab`
 - `Record Python password validation exercise`
 - `Summarize authentication research`
-- `Log Archtech moderation design decisions`
+- `Log nonprofit website hosting decisions`
 - `Document portfolio publication and testing`
 
 ## Entry quality check

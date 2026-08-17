@@ -2,7 +2,7 @@
 
 ## Session
 
-- **Area:** Networking / Cybersecurity / Programming / Archtech / Other
+- **Area:** Networking / Cybersecurity / Programming / Nonprofit Operations / Other
 - **Time spent:**
 - **Goal:**
 
