@@ -4,6 +4,8 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-08-16 - Started a cybersecurity research reproduction project](entries/2026/08/2026-08-16.md)
+- [2026-08-14 - Dark interactive lab restoration and model polish](entries/2026/08/2026-08-14.md)
 - [2026-08-13 - Licensed 3D assets and creative-studio redesign](entries/2026/08/2026-08-13.md)
 - [2026-08-10 - Interaction references, room index, and Three.js lighting](entries/2026/08/2026-08-10.md)
 - [2026-08-01 - T3MP3ST setup and AFFAN_OS desktop](entries/2026/08/2026-08-01.md)
@@ -12,6 +14,11 @@ A public record of genuine weekday study, labs, and project work.
 - [2026-07-29 - Rebuilt my portfolio around an interactive topology](entries/2026/07/2026-07-29.md)
 - [2026-07-28 - Published and documented my portfolio](entries/2026/07/2026-07-28.md)
 - [2026-07-27 - Set up a genuine learning log](entries/2026/07/2026-07-27.md)
+
+The complete log is also available inside the portfolio's AFFAN_OS computer. Entries are grouped by month and open in an internal Markdown reader.
+
+- [Open the interactive portfolio](https://affan-shaikh-portfolio.sil6428-archtech.workers.dev)
+- [View the portfolio source](https://github.com/sil6428/Portfolio.github.io)
 
 ## What belongs here
 
