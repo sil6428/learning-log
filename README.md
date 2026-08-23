@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-08-23 - Corrected public ownership, evidence, and project presentation](entries/2026/08/2026-08-23.md)
 - [2026-08-22 - SSIK role, site integrity, professionalization, and portfolio performance](entries/2026/08/2026-08-22.md)
 - [2026-08-17 - Corrected nonprofit technology role across public materials](entries/2026/08/2026-08-17.md)
 - [2026-08-16 - Started a cybersecurity research reproduction project](entries/2026/08/2026-08-16.md)
@@ -20,14 +21,14 @@ A public record of genuine weekday study, labs, and project work.
 The complete log is also available inside the portfolio's AFFAN_OS computer. Entries are grouped by month and open in an internal Markdown reader.
 
 - [Open the interactive portfolio](https://affan-shaikh-portfolio.sil6428-archtech.workers.dev)
-- [View the portfolio source](https://github.com/sil6428/Portfolio.github.io)
+- [View the portfolio source](https://github.com/sil6428/affan-portfolio)
 
 ## What belongs here
 
 - Networking and Cisco lab notes
 - Cybersecurity exercises and write-ups
-- Python, TypeScript, React, or web development practice
-- Responsive design, accessibility, testing, and deployment work
+- Python security tooling, reproducible research, and web development practice
+- Testing, deployment, and technical documentation work
 - Nonprofit technology operations that are safe to record
 - Problems solved, decisions made, and next steps
 
