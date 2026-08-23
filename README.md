@@ -4,6 +4,8 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-08-22 - Restored SSIK co-founder and website role](entries/2026/08/2026-08-22.md)
+- [2026-08-17 - Corrected nonprofit technology role across public materials](entries/2026/08/2026-08-17.md)
 - [2026-08-16 - Started a cybersecurity research reproduction project](entries/2026/08/2026-08-16.md)
 - [2026-08-14 - Dark interactive lab restoration and model polish](entries/2026/08/2026-08-14.md)
 - [2026-08-13 - Licensed 3D assets and creative-studio redesign](entries/2026/08/2026-08-13.md)
