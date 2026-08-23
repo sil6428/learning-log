@@ -4,7 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
-- [2026-08-22 - SSIK role, site integrity, and portfolio performance](entries/2026/08/2026-08-22.md)
+- [2026-08-22 - SSIK role, site integrity, professionalization, and portfolio performance](entries/2026/08/2026-08-22.md)
 - [2026-08-17 - Corrected nonprofit technology role across public materials](entries/2026/08/2026-08-17.md)
 - [2026-08-16 - Started a cybersecurity research reproduction project](entries/2026/08/2026-08-16.md)
 - [2026-08-14 - Dark interactive lab restoration and model polish](entries/2026/08/2026-08-14.md)
