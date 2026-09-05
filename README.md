@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-09-05 - Built a foundation for junior SOC analysis](entries/2026/09/2026-09-05.md)
 - [2026-09-04 - Refreshed cybersecurity fundamentals and career paths](entries/2026/09/2026-09-04.md)
 - [2026-08-28 - Completed SSIK Intelligence V1](entries/2026/08/2026-08-28.md)
 - [2026-08-23 - Corrected public ownership, evidence, and project presentation](entries/2026/08/2026-08-23.md)
