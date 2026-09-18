@@ -4,6 +4,8 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-09-18 - Aligned conference-facing portfolio, resume, and repositories](entries/2026/09/2026-09-18.md)
+- [2026-09-17 - Reviewed and hardened the collaborative P2P messaging update](entries/2026/09/2026-09-17.md)
 - [2026-09-11 - Verified secure-communications projects and resume progression](entries/2026/09/2026-09-11.md)
 - [2026-09-05 - Built a foundation for junior SOC analysis](entries/2026/09/2026-09-05.md)
 - [2026-09-04 - Refreshed cybersecurity fundamentals and career paths](entries/2026/09/2026-09-04.md)
@@ -24,7 +26,7 @@ A public record of genuine weekday study, labs, and project work.
 
 The complete log is also available inside the portfolio's AFFAN_OS computer. Entries are grouped by month and open in an internal Markdown reader.
 
-- [Open the interactive portfolio](https://affan-shaikh-portfolio.sil6428-archtech.workers.dev)
+- [Open the interactive portfolio](https://affan-shaikh.pages.dev)
 - [View the portfolio source](https://github.com/sil6428/affan-portfolio)
 
 ## What belongs here
