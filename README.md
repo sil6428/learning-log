@@ -4,7 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
-- [2026-09-20 - Practised decision-making during a simulated cyber crisis](entries/2026/09/2026-09-20.md)
+- [2026-09-20 - Practised cyber-crisis decisions and shipped Relay v0.2](entries/2026/09/2026-09-20.md)
 - [2026-09-18 - Aligned conference-facing portfolio, resume, and repositories](entries/2026/09/2026-09-18.md)
 - [2026-09-17 - Reviewed and hardened the collaborative P2P messaging update](entries/2026/09/2026-09-17.md)
 - [2026-09-11 - Verified secure-communications projects and resume progression](entries/2026/09/2026-09-11.md)
