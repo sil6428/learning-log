@@ -4,6 +4,7 @@ A public record of genuine weekday study, labs, and project work.
 
 ## Recent entries
 
+- [2026-09-28 - Reconciled my technical archive with my public portfolio](entries/2026/09/2026-09-28.md)
 - [2026-09-20 - Practised cyber-crisis decisions and shipped Relay v0.2](entries/2026/09/2026-09-20.md)
 - [2026-09-18 - Aligned conference-facing portfolio, resume, and repositories](entries/2026/09/2026-09-18.md)
 - [2026-09-17 - Reviewed and hardened the collaborative P2P messaging update](entries/2026/09/2026-09-17.md)
@@ -14,7 +15,6 @@ A public record of genuine weekday study, labs, and project work.
 - [2026-08-23 - Corrected public ownership, evidence, and project presentation](entries/2026/08/2026-08-23.md)
 - [2026-08-22 - SSIK role, site integrity, professionalization, and portfolio performance](entries/2026/08/2026-08-22.md)
 - [2026-08-17 - Corrected nonprofit technology role across public materials](entries/2026/08/2026-08-17.md)
-- [2026-08-16 - Started a cybersecurity research reproduction project](entries/2026/08/2026-08-16.md)
 - [2026-08-14 - Dark interactive lab restoration and model polish](entries/2026/08/2026-08-14.md)
 - [2026-08-13 - Licensed 3D assets and creative-studio redesign](entries/2026/08/2026-08-13.md)
 - [2026-08-10 - Interaction references, room index, and Three.js lighting](entries/2026/08/2026-08-10.md)
